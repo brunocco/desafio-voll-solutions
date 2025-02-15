@@ -10,7 +10,7 @@ O desafio proposto foi realizar testes exploratórios tradicionais no link forne
 
 ## 🐛 Registro de bugs e melhorias
 
-Realizei testes exploratórios no sistema, com foco na identificação de bugs e na análise de oportunidades para melhorias. Durante o processo, executei uma exploração detalhada das funcionalidades, buscando possíveis falhas de usabilidade, performance e segurança. Ao longo dos testes, consegui identificar diversos bugs, tanto de interface quanto de funcionalidade, e sugeri melhorias que poderiam otimizar a experiência do usuário, aumentar a eficiência do sistema e corrigir comportamentos inesperados. Para cada problema identificado, documentei claramente os passos para reproduzir o erro, descrevi o impacto potencial e forneci sugestões de melhorias viáveis em documentação que se encontra na pasta "Relatórios de Bugs e Melhorias".
+Realizei testes exploratórios no sistema, com foco na identificação de bugs e na análise de oportunidades para melhorias. Durante o processo, executei uma exploração detalhada das funcionalidades, buscando possíveis falhas de usabilidade, performance e segurança. Ao longo dos testes, consegui identificar diversos bugs, tanto de interface quanto de funcionalidade, e sugeri melhorias que poderiam otimizar a experiência do usuário, aumentar a eficiência do sistema e corrigir comportamentos inesperados. Para cada problema identificado, documentei claramente os passos para reproduzir o erro, descrevi o impacto potencial e forneci sugestões de melhorias viáveis em documentação que se encontra na pasta "Relatório de Bug e Melhorias".
 
 ## 🎯 Considerações Finais
 
